@@ -312,7 +312,7 @@
   }
 
   .container-nav {
-    margin-left: 10vh;
+    margin-left: 10rem;
     display: flex;
     justify-content: space-between;
   }
@@ -320,17 +320,23 @@
   .img-container {
     display: flex;
     justify-content: center;
+    margin-right: 10rem;
   }
 
   .Input-search {
     display: flex;
     justify-content: space-around;
+    margin-right: 25rem;
+  }
+  .addpokemonimg{
+    width: 50%;
+    margin: auto;
   }
 
   .input-login {
     font-family: Poppins, sans-serif;
     font-weight: 750;
-    width: 48%;
+    width: 60%;
     font-size: small;
     border-radius: 5px;
     border: 1px solid grey;
